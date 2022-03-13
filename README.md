@@ -6,4 +6,4 @@ This project is a study case for learning React.
 
 It's a simple todo list made in React using Reat MUI components. It's my first project in React. Not much to talk about it. 😅
 
-![Todo list page]('./images/page.png')
+![Todo list page](./images/page.png)
