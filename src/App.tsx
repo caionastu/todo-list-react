@@ -1,8 +1,8 @@
 import React from 'react'
-import Page from './Page'
+import Page from './Components/Page'
 import { GlobalStyles } from './styles/GlobalStyles'
 
-function App () {
+function App() {
   return (
     <>
       <Page></Page>
