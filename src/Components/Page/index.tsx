@@ -1,4 +1,4 @@
-import { Add, PlusOne } from '@mui/icons-material'
+import { Add } from '@mui/icons-material'
 import { Box, Button, Container, TextField } from '@mui/material'
 import { motion } from 'framer-motion'
 import React, { useRef, useState } from 'react'
@@ -89,7 +89,7 @@ const Page: React.FC = () => {
             onKeyPress={(e) => onKeyPress(e.key)}
           ></TextField>
           <Button
-            startIcon={<Add></Add>}
+            startIcon={<Add />}
             size="medium"
             variant="contained"
             sx={{
